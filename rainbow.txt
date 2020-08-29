@@ -11,6 +11,7 @@ Orange
 Red
 Brown
 Unicorn
+Purple
 
 There are unicorns in rainbows.
 End of my poem
